@@ -150,3 +150,12 @@ justify-content: space-between;
 .modal_text {
     margin: 20px 0px 20px 0px;
 }
+
+@media (max-width: 375px) {
+    .griditem_none {
+        display: none;
+    }
+    .griditem {
+        width: 80%;
+    }
+}
