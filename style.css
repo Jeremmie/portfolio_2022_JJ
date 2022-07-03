@@ -151,11 +151,11 @@ justify-content: space-between;
     margin: 20px 0px 20px 0px;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 412px) {
     .griditem_none {
         display: none;
     }
     .griditem {
-        width: 80%;
+        width: 90%;
     }
 }
